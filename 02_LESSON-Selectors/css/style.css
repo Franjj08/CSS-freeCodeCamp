@@ -1,0 +1,45 @@
+/*important>sid>class> element*/
+
+* {/*select all*/
+    font-family: monospace;
+}
+
+body {
+    font-size: 22px;
+}
+
+main {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+button, input, textarea,select{
+    font:inherit;
+}
+h1,h2{
+    color:blue;
+}
+
+p {
+    color:purple!important;
+}
+
+p {
+    color:red;
+}
+/*find a attribute of another attribute
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}*/
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+.gray{
+    color:gray;
+}
+/*ids should only exist once in an html document, they should be unique  */
+#second {
+    font-style: italic;
+}
