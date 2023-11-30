@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+/*
+Typography is the wat that text is arranged and presented
+*/
+
+body {
+    padding: 10%;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;;
+}
+
+p {
+    /* text-decoration: overline; */
+    /* text-transform: uppercase; */
+    /* text-align: justify; */
+    /*text-indent: 2em;  /*the space of the beginning of the paragraph*/
+    line-height: 1.5;
+    /* letter-spacing: 0.1em; */
+    /* word-spacing: 0.1em; */
+    /* font-weight:normal; */
+    /* font-style: oblique; */
+}
+/* input {
+    font:inherit;
+} */
+/*
+The default of line-height is 1.2
+The default of font-weight: 400
+*/
